@@ -1,0 +1,5 @@
+argostranslate==1.9.1
+click==8.0.3
+deep_translator==1.11.4
+streams.py==1.1.0
+pywinauto==0.6.3
